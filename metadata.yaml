@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '36670'
     url: http://www.gutenberg.org/2009/agents/36670
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33826#Lippincott-s-Horn-Ashbaugh-SpellerFor-Grades-One-to-Eight
 gutenberg_issued: '2010-10-01'
 gutenberg_type: Text
 identifiers:

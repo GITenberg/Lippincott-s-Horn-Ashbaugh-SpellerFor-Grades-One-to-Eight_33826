@@ -1,0 +1,32 @@
+_repo: Lippincott-s-Horn-Ashbaugh-SpellerFor-Grades-One-to-Eight_33826
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Ashbaugh, Ernest J. (Ernest James)
+    alias: Ashbaugh, E. J. (Ernest James)
+    birthdate: 1883
+    gutenberg_agent_id: '36671'
+    url: http://www.gutenberg.org/2009/agents/36671
+  - agent_name: Horn, Ernest
+    birthdate: 1882
+    deathdate: 1967
+    gutenberg_agent_id: '36670'
+    url: http://www.gutenberg.org/2009/agents/36670
+description: ''
+gutenberg_issued: '2010-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33826'
+  lccn: '21000617'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PE'
+- !lcsh 'Spellers'
+title: Lippincott's Horn-Ashbaugh Speller For Grades One to Eight
+url: http://www.gutenberg.org/ebooks/33826
